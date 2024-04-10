@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Bienvenue sur le code source du projet fil rouge **My MOOCs**. Ce projet a été réalisé en lien avec le cours **Conteneurisez vos applications avec Docker** sur Next Level.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgonzalez0/NX--Conteneurisez-vos-applications-avec-Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielgonzalez0/NX--Conteneurisez-vos-applications-avec-Docker/issues"
+  },
+  "homepage": "https://github.com/danielgonzalez0/NX--Conteneurisez-vos-applications-avec-Docker#readme",
+  "dependencies": {
+    "express": "4.13"
+  }
+}
